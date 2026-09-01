@@ -2,4 +2,4 @@
 
 ### Contact
 * https://t.me/singaporelug
-* https://singaporelug.org
+* https://singaporelug.github.io/homepage
